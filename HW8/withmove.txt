@@ -1,0 +1,144 @@
+Allocating array of size 20
+Allocating array of size 40
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 40
+Allocating array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Allocating array of size 20
+Allocating array of size 40
+calling move constructor of size 20
+calling move equal operator size 40
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Freeng array of size 20
+Freeng array of size 40
+allocated space 60
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+allocated space 200
+freed space 0
+swapping 0 to 9
+calling move constructor of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+swapping 1 to 8
+calling move constructor of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+swapping 2 to 7
+calling move constructor of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+swapping 3 to 6
+calling move constructor of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+swapping 4 to 5
+calling move constructor of size 20
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+calling move equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Nothing freed. Array was taken by move/equal operator
+allocated space 200
+freed space 0
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+allocated space 200
+freed space 200
+Allocating array of size 1000
+calling copy constructor of size 1000
+Allocating array of size 1000
+pass_by_value
+Freeng array of size 1000
+Freeng array of size 1000
+allocated space 2200
+freed space 2200
+Allocating array of size 1000
+calling move constructor of size 1000
+pass_by_value
+Freeng array of size 1000
+Nothing freed. Array was taken by move/equal operator
+allocated space 1000
+freed space 1000
+Allocating array of size 2000
+return_by_value
+Freeng array of size 2000
+allocated space 2000
+freed space 2000
+allocated space 0
+freed space 0

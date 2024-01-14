@@ -1,0 +1,173 @@
+Allocating array of size 20
+Allocating array of size 40
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 40
+Allocating array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Allocating array of size 20
+Allocating array of size 40
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 40
+Freeng array of size 20
+Allocating array of size 40
+calling equal operator size 20
+Freeng array of size 40
+Allocating array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 40
+allocated space 140
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 0
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Nothing freed. Array was taken by move/equal operator
+Allocating array of size 20
+Freeng array of size 20
+allocated space 400
+freed space 200
+swapping 0 to 9
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+Freeng array of size 20
+swapping 1 to 8
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+Freeng array of size 20
+swapping 2 to 7
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+Freeng array of size 20
+swapping 3 to 6
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+Freeng array of size 20
+swapping 4 to 5
+calling copy constructor of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+calling equal operator size 20
+Freeng array of size 20
+Allocating array of size 20
+Freeng array of size 20
+allocated space 700
+freed space 500
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+Freeng array of size 20
+allocated space 700
+freed space 700
+Allocating array of size 1000
+calling copy constructor of size 1000
+Allocating array of size 1000
+pass_by_value
+Freeng array of size 1000
+Freeng array of size 1000
+allocated space 2700
+freed space 2700
+Allocating array of size 1000
+calling copy constructor of size 1000
+Allocating array of size 1000
+pass_by_value
+Freeng array of size 1000
+Freeng array of size 1000
+allocated space 2000
+freed space 2000
+Allocating array of size 2000
+return_by_value
+Freeng array of size 2000
+allocated space 2000
+freed space 2000
+allocated space 0
+freed space 0
