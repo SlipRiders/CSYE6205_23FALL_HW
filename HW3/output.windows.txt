@@ -1,0 +1,49 @@
+----------- n = 25 -----------------
+upto_n_minus_1 Has 9 Primes. Work  = 104 CPU time used: 0 seconds
+upto_n_by_2 Has 9 Primes. Work  = 52 CPU time used: 0 seconds
+sqrt_of_n Has 9 Primes. Work  = 37 CPU time used: 0 seconds
+upto_prime Has 9 Primes. Work  = 33 CPU time used: 0 seconds
+sieve_of_eratosthenes Has 9 Primes. Work  = 43 CPU time used: 0 seconds
+----------- n = 100 -----------------
+upto_n_minus_1 Has 25 Primes. Work  = 1133 CPU time used: 0 seconds
+upto_n_by_2 Has 25 Primes. Work  = 593 CPU time used: 0 seconds
+sqrt_of_n Has 25 Primes. Work  = 236 CPU time used: 0 seconds
+upto_prime Has 25 Primes. Work  = 181 CPU time used: 0 seconds
+sieve_of_eratosthenes Has 25 Primes. Work  = 204 CPU time used: 0 seconds
+----------- n = 1000 -----------------
+upto_n_minus_1 Has 168 Primes. Work  = 78022 CPU time used: 0 seconds
+upto_n_by_2 Has 168 Primes. Work  = 39877 CPU time used: 0 seconds
+sqrt_of_n Has 168 Primes. Work  = 5288 CPU time used: 0 seconds
+upto_prime Has 168 Primes. Work  = 2801 CPU time used: 0 seconds
+sieve_of_eratosthenes Has 168 Primes. Work  = 2411 CPU time used: 0 seconds
+----------- n = 10000 -----------------
+upto_n_minus_1 Has 1229 Primes. Work  = 5775223 CPU time used: 0.008 seconds
+upto_n_by_2 Has 1229 Primes. Work  = 2906413 CPU time used: 0.005 seconds
+sqrt_of_n Has 1229 Primes. Work  = 117527 CPU time used: 0 seconds
+upto_prime Has 1229 Primes. Work  = 43753 CPU time used: 0 seconds
+sieve_of_eratosthenes Has 1229 Primes. Work  = 26981 CPU time used: 0.001 seconds
+----------- n = 100000 -----------------
+upto_n_minus_1 Has 9592 Primes. Work  = 455189150 CPU time used: 0.695 seconds
+upto_n_by_2 Has 9592 Primes. Work  = 227986088 CPU time used: 0.346 seconds
+sqrt_of_n Has 9592 Primes. Work  = 2745694 CPU time used: 0.006 seconds
+upto_prime Has 9592 Primes. Work  = 744436 CPU time used: 0.004 seconds
+sieve_of_eratosthenes Has 9592 Primes. Work  = 293078 CPU time used: 0.007 seconds
+----------- n = 1000000 -----------------
+cannot compute prime by upto_n_minus_1 algorithm
+cannot compute prime by upto_n_by_2 algorithm
+cannot compute prime by sqrt_of_n algorithm
+upto_prime Has 78498 Primes. Work  = 13927402 CPU time used: 0.076 seconds
+sieve_of_eratosthenes Has 78498 Primes. Work  = 3122048 CPU time used: 0.068 seconds
+----------- n = 10000000 -----------------
+cannot compute prime by upto_n_minus_1 algorithm
+cannot compute prime by upto_n_by_2 algorithm
+cannot compute prime by sqrt_of_n algorithm
+upto_prime Has 664579 Primes. Work  = 286144938 CPU time used: 1.48 seconds
+sieve_of_eratosthenes Has 664579 Primes. Work  = 32850051 CPU time used: 0.88 seconds
+----------- n = 100000000 -----------------
+cannot compute prime by upto_n_minus_1 algorithm
+cannot compute prime by upto_n_by_2 algorithm
+cannot compute prime by sqrt_of_n algorithm
+upto_prime Has 5761455 Primes. Work  = 6320928470 CPU time used: 39.079 seconds
+sieve_of_eratosthenes Has 5761455 Primes. Work  = 342570204 CPU time used: 9.528 seconds
+All test passed
