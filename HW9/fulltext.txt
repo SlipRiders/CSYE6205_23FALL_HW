@@ -1,0 +1,259 @@
+In employee::employee constructor jag vasudevamurthy 678-90
+jag vasudevamurthy 678-90
+In employee::employee constructor bob ericission 178-90
+bob ericission 178-90
+In employee copy constructor jag vasudevamurthy 678-90
+jag vasudevamurthy 678-90
+In employee equal constructor jag vasudevamurthy 678-90
+jag vasudevamurthy 678-90
+jag vasudevamurthy 678-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::employee constructor jag vasudevamurthy 678-90
+In salariedemployee::salariedemployee constructor jag vasudevamurthy 678-90 Xilinx 56000
+jag vasudevamurthy 678-90 Xilinx 56000
+In employee::employee constructor bob ericission 178-90
+In salariedemployee::salariedemployee constructor bob ericission 178-90 ATT 3.456e+06
+bob ericission 178-90 ATT 3.456e+06
+In employee copy constructor jag vasudevamurthy 678-90
+In salariedemployee copy constructor jag vasudevamurthy 678-90 Xilinx 56000
+jag vasudevamurthy 678-90 Xilinx 56000
+In employee equal constructor jag vasudevamurthy 678-90 ATT 3.456e+06
+In salariedemployee equal constructor jag vasudevamurthy 678-90 Xilinx 56000
+jag vasudevamurthy 678-90 Xilinx 56000
+jag vasudevamurthy 678-90 Xilinx 56000
+In salariedemployee::~salariedemployee distructor jag vasudevamurthy 678-90 Xilinx 56000
+In employee::~employee distructor jag vasudevamurthy 678-90
+In salariedemployee::~salariedemployee distructor jag vasudevamurthy 678-90 Xilinx 56000
+In employee::~employee distructor jag vasudevamurthy 678-90
+In salariedemployee::~salariedemployee distructor jag vasudevamurthy 678-90 Xilinx 56000
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::employee constructor jag vasudevamurthy 678-90
+In commissionemployee::commissionemployee constructor jag vasudevamurthy 678-90 BELL 560
+jag vasudevamurthy 678-90 BELL 560
+In employee::employee constructor bob ericission 178-90
+In commissionemployee::commissionemployee constructor bob ericission 178-90 UCSC 345
+bob ericission 178-90 UCSC 345
+In employee copy constructor jag vasudevamurthy 678-90
+In commissionemployee copy constructor jag vasudevamurthy 678-90 BELL 560
+jag vasudevamurthy 678-90 BELL 560
+In employee equal constructor jag vasudevamurthy 678-90 UCSC 345
+In commissionemployee equal constructor jag vasudevamurthy 678-90 BELL 560
+jag vasudevamurthy 678-90 BELL 560
+jag vasudevamurthy 678-90 BELL 560
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::employee constructor jag vasudevamurthy 678-90
+In commissionemployee::commissionemployee constructor jag vasudevamurthy 678-90 BELL 560
+In basepluscommissionemployee::basepluscommissionemployee constructor jag vasudevamurthy 678-90 BELL 560 abc 89
+jag vasudevamurthy 678-90 BELL 560 abc 89
+In employee::employee constructor bob ericission 178-90
+In commissionemployee::commissionemployee constructor bob ericission 178-90 UCSC 345
+In basepluscommissionemployee::basepluscommissionemployee constructor bob ericission 178-90 UCSC 345 xyz 90
+bob ericission 178-90 UCSC 345 xyz 90
+In employee copy constructor jag vasudevamurthy 678-90
+In commissionemployee copy constructor jag vasudevamurthy 678-90 BELL 560
+In basepluscommissionemployee copy constructor jag vasudevamurthy 678-90 BELL 560 abc 89
+jag vasudevamurthy 678-90 BELL 560 abc 89
+In employee equal constructor jag vasudevamurthy 678-90 UCSC 345 xyz 90
+In commissionemployee equal constructor jag vasudevamurthy 678-90 BELL 560 xyz 90
+In basepluscommissionemployee equal constructor jag vasudevamurthy 678-90 BELL 560 abc 89
+jag vasudevamurthy 678-90 BELL 560 abc 89
+jag vasudevamurthy 678-90 BELL 560 abc 89
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag vasudevamurthy 678-90 BELL 560 abc 89
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag vasudevamurthy 678-90 BELL 560 abc 89
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag vasudevamurthy 678-90 BELL 560 abc 89
+In commissionemployee::~commissionemployee distructor jag vasudevamurthy 678-90 BELL 560
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::employee constructor jag vasudevamurthy 678-90
+In employee copy constructor jag vasudevamurthy 678-90
+In employee::employee constructor bob ericission 178-90
+In employee copy constructor bob ericission 178-90
+In employee copy constructor jag vasudevamurthy 678-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::employee constructor alex wong 678-89
+In salariedemployee::salariedemployee constructor alex wong 678-89 Men 24
+In employee copy constructor alex wong 678-89
+In employee copy constructor jag vasudevamurthy 678-90
+In employee copy constructor bob ericission 178-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::employee constructor bob john 478-90
+In salariedemployee::salariedemployee constructor bob john 478-90 XYX 345
+In employee copy constructor bob john 478-90
+In employee copy constructor jag vasudevamurthy 678-90
+In employee copy constructor bob ericission 178-90
+In employee copy constructor alex wong 678-89
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::~employee distructor alex wong 678-89
+In salariedemployee::~salariedemployee distructor bob john 478-90 XYX 345
+In employee::~employee distructor bob john 478-90
+In salariedemployee::~salariedemployee distructor alex wong 678-89 Men 24
+In employee::~employee distructor alex wong 678-89
+In employee::employee constructor hale tom 589-78
+In commissionemployee::commissionemployee constructor hale tom 589-78 xil 560000
+In employee copy constructor hale tom 589-78
+In employee copy constructor jag vasudevamurthy 678-90
+In employee copy constructor bob ericission 178-90
+In employee copy constructor alex wong 678-89
+In employee copy constructor bob john 478-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::~employee distructor alex wong 678-89
+In employee::~employee distructor bob john 478-90
+In employee::employee constructor jon snith 478-90
+In commissionemployee::commissionemployee constructor jon snith 478-90 UCB 9
+In employee copy constructor jon snith 478-90
+In commissionemployee::~commissionemployee distructor jon snith 478-90 UCB 9
+In employee::~employee distructor jon snith 478-90
+In commissionemployee::~commissionemployee distructor hale tom 589-78 xil 560000
+In employee::~employee distructor hale tom 589-78
+In employee::employee constructor amy vmay 878-90
+In commissionemployee::commissionemployee constructor amy vmay 878-90 synp 160
+In basepluscommissionemployee::basepluscommissionemployee constructor amy vmay 878-90 synp 160 nvida 809
+In employee copy constructor amy vmay 878-90
+In employee copy constructor jag vasudevamurthy 678-90
+In employee copy constructor bob ericission 178-90
+In employee copy constructor alex wong 678-89
+In employee copy constructor bob john 478-90
+In employee copy constructor hale tom 589-78
+In employee copy constructor jon snith 478-90
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::~employee distructor alex wong 678-89
+In employee::~employee distructor bob john 478-90
+In employee::~employee distructor hale tom 589-78
+In employee::~employee distructor jon snith 478-90
+In employee::employee constructor fake guy 878-60
+In commissionemployee::commissionemployee constructor fake guy 878-60 mu 345
+In basepluscommissionemployee::basepluscommissionemployee constructor fake guy 878-60 mu 345 spy 190
+In employee copy constructor fake guy 878-60
+In basepluscommissionemployee::~basepluscommissionemployee distructor fake guy 878-60 mu 345 spy 190
+In commissionemployee::~commissionemployee distructor fake guy 878-60 mu 345
+In employee::~employee distructor fake guy 878-60
+In basepluscommissionemployee::~basepluscommissionemployee distructor amy vmay 878-90 synp 160 nvida 809
+In commissionemployee::~commissionemployee distructor amy vmay 878-90 synp 160
+In employee::~employee distructor amy vmay 878-90
+0: jag vasudevamurthy 678-90
+1: bob ericission 178-90
+2: alex wong 678-89
+3: bob john 478-90
+4: hale tom 589-78
+5: jon snith 478-90
+6: amy vmay 878-90
+7: fake guy 878-60
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In employee::~employee distructor alex wong 678-89
+In employee::~employee distructor bob john 478-90
+In employee::~employee distructor hale tom 589-78
+In employee::~employee distructor jon snith 478-90
+In employee::~employee distructor amy vmay 878-90
+In employee::~employee distructor fake guy 878-60
+In employee::employee constructor jag vasudevamurthy 678-90
+In employee::employee constructor bob ericission 178-90
+In employee::employee constructor alex wong 678-89
+In salariedemployee::salariedemployee constructor alex wong 678-89 Men 24
+In employee::employee constructor bob john 478-90
+In salariedemployee::salariedemployee constructor bob john 478-90 XYX 345
+In employee::employee constructor hale tom 589-78
+In commissionemployee::commissionemployee constructor hale tom 589-78 xil 560000
+In employee::employee constructor jon snith 478-90
+In commissionemployee::commissionemployee constructor jon snith 478-90 UCB 9
+In employee::employee constructor amy vmay 878-90
+In commissionemployee::commissionemployee constructor amy vmay 878-90 synp 160
+In basepluscommissionemployee::basepluscommissionemployee constructor amy vmay 878-90 synp 160 nvida 809
+In employee::employee constructor fake guy 878-60
+In commissionemployee::commissionemployee constructor fake guy 878-60 mu 345
+In basepluscommissionemployee::basepluscommissionemployee constructor fake guy 878-60 mu 345 spy 190
+0: jag vasudevamurthy 678-90
+1: bob ericission 178-90
+2: alex wong 678-89 Men 24
+3: bob john 478-90 XYX 345
+4: hale tom 589-78 xil 560000
+5: jon snith 478-90 UCB 9
+6: amy vmay 878-90 synp 160 nvida 809
+7: fake guy 878-60 mu 345 spy 190
+In employee::~employee distructor jag vasudevamurthy 678-90
+In employee::~employee distructor bob ericission 178-90
+In salariedemployee::~salariedemployee distructor alex wong 678-89 Men 24
+In employee::~employee distructor alex wong 678-89
+In salariedemployee::~salariedemployee distructor bob john 478-90 XYX 345
+In employee::~employee distructor bob john 478-90
+In commissionemployee::~commissionemployee distructor hale tom 589-78 xil 560000
+In employee::~employee distructor hale tom 589-78
+In commissionemployee::~commissionemployee distructor jon snith 478-90 UCB 9
+In employee::~employee distructor jon snith 478-90
+In basepluscommissionemployee::~basepluscommissionemployee distructor amy vmay 878-90 synp 160 nvida 809
+In commissionemployee::~commissionemployee distructor amy vmay 878-90 synp 160
+In employee::~employee distructor amy vmay 878-90
+In basepluscommissionemployee::~basepluscommissionemployee distructor fake guy 878-60 mu 345 spy 190
+In commissionemployee::~commissionemployee distructor fake guy 878-60 mu 345
+In employee::~employee distructor fake guy 878-60
+In employee::employee constructor jag0 Vas0 46-78-0
+In commissionemployee::commissionemployee constructor jag0 Vas0 46-78-0 BELL0 100
+In basepluscommissionemployee::basepluscommissionemployee constructor jag0 Vas0 46-78-0 BELL0 100 xyz0 878
+jag0 Vas0 46-78-0 BELL0 100 xyz0 878
+In employee::employee constructor jag1 Vas1 46-78-1
+In commissionemployee::commissionemployee constructor jag1 Vas1 46-78-1 BELL1 101
+In basepluscommissionemployee::basepluscommissionemployee constructor jag1 Vas1 46-78-1 BELL1 101 xyz1 879
+jag1 Vas1 46-78-1 BELL1 101 xyz1 879
+In employee::employee constructor jag2 Vas2 46-78-2
+In commissionemployee::commissionemployee constructor jag2 Vas2 46-78-2 BELL2 102
+In basepluscommissionemployee::basepluscommissionemployee constructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In employee::employee constructor jag3 Vas3 46-78-3
+In commissionemployee::commissionemployee constructor jag3 Vas3 46-78-3 BELL3 103
+In basepluscommissionemployee::basepluscommissionemployee constructor jag3 Vas3 46-78-3 BELL3 103 xyz3 881
+jag3 Vas3 46-78-3 BELL3 103 xyz3 881
+In employee::employee constructor jag4 Vas4 46-78-4
+In commissionemployee::commissionemployee constructor jag4 Vas4 46-78-4 BELL4 104
+In basepluscommissionemployee::basepluscommissionemployee constructor jag4 Vas4 46-78-4 BELL4 104 xyz4 882
+jag4 Vas4 46-78-4 BELL4 104 xyz4 882
+jag0 Vas0 46-78-0 BELL0 100 xyz0 878
+jag1 Vas1 46-78-1 BELL1 101 xyz1 879
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag3 Vas3 46-78-3 BELL3 103 xyz3 881
+jag4 Vas4 46-78-4 BELL4 104 xyz4 882
+e2 is as follows
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In employee equal constructor jag2 Vas2 46-78-2 BELL1 101 xyz1 879
+In commissionemployee equal constructor jag2 Vas2 46-78-2 BELL2 102 xyz1 879
+In basepluscommissionemployee equal constructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In employee equal constructor jag2 Vas2 46-78-2 BELL0 100 xyz0 878
+In commissionemployee equal constructor jag2 Vas2 46-78-2 BELL2 102 xyz0 878
+In basepluscommissionemployee equal constructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+jag3 Vas3 46-78-3 BELL3 103 xyz3 881
+jag4 Vas4 46-78-4 BELL4 104 xyz4 882
+Did equal worked really
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In commissionemployee::~commissionemployee distructor jag2 Vas2 46-78-2 BELL2 102
+In employee::~employee distructor jag2 Vas2 46-78-2
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In commissionemployee::~commissionemployee distructor jag2 Vas2 46-78-2 BELL2 102
+In employee::~employee distructor jag2 Vas2 46-78-2
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag2 Vas2 46-78-2 BELL2 102 xyz2 880
+In commissionemployee::~commissionemployee distructor jag2 Vas2 46-78-2 BELL2 102
+In employee::~employee distructor jag2 Vas2 46-78-2
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag3 Vas3 46-78-3 BELL3 103 xyz3 881
+In commissionemployee::~commissionemployee distructor jag3 Vas3 46-78-3 BELL3 103
+In employee::~employee distructor jag3 Vas3 46-78-3
+In basepluscommissionemployee::~basepluscommissionemployee distructor jag4 Vas4 46-78-4 BELL4 104 xyz4 882
+In commissionemployee::~commissionemployee distructor jag4 Vas4 46-78-4 BELL4 104
+In employee::~employee distructor jag4 Vas4 46-78-4
+I am smart. I need 100 marks
